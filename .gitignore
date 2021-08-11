@@ -1,7 +1,6 @@
 .CC
 recipe.sh
 system.sh
-KERNEL
 dl
 deploy
 ignore
